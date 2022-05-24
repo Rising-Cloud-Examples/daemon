@@ -1,0 +1,6 @@
+deps: 
+- chmod +x runme.sh
+- chmod +x daemon.sh
+daemons: 
+- bash -c ./daemon.sh
+run: bash -c ./runme.sh
