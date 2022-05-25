@@ -1,5 +1,5 @@
 # daemon
-This guide will walk you through the simple steps needed to build a Daemon on Rising Cloud, which tracks the seconds passed since the Worker handling the request has spun up. You can clone all the files needed for this example from our GitHub repository at: https://github.com/Rising-Cloud-Examples/daemon
+This guide will walk you through the simple steps needed to build a Daemon on Rising Cloud, which tracks the seconds passed since the Worker handling the request has spun up.
 
 # 1. Install the Rising CloudCommand Line Interface (CLI)
 In order to run the Rising Cloud commands in this guide, you will need to install the Rising Cloud Command Line Interface. This program provides you with the utilities to setup your Rising Cloud Task or Rising Cloud Web Service, upload your application to Rising Cloud, setup authentication, and more. If you haven’t already, [click here](/docs/install) to for instructions to install Rising Cloud CLI.
