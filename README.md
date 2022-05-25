@@ -129,4 +129,4 @@ This should respond with a JSON object in the response body. As this example scr
 "time": "Time since start: #"
 ```
 
-Congratulations, you’ve successfully created and used your Rising Cloud application with Daemons!
+Congratulations, you’ve successfully run a daemon on Rising Cloud!
